@@ -1,0 +1,93 @@
+body {
+    background-image: url("France.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+}
+
+@font-face {
+    font-family: "Brush Script MT";
+    src: url("Brush.ttf");
+}
+@font-face {
+    font-family: "Algerian";
+    src: url("Algerian.ttf");
+}
+.FirstPage {
+    color: gold;
+    font-family: "Algerian";
+    src: url("Algerian.ttf");
+}
+.theme {
+    font-size: 30px;
+    text-align: left;
+}
+.MainTheme {
+    font-family: "Brush Script MT";
+    src: url("Brush.ttf");
+    font-size: 60px;
+    color: gold;
+}
+.FirstPage2 {
+    color: #fff1f1;
+    font-family: "Algerian";
+    src: url("Algerian.ttf");
+}
+.card{
+    box-shadow: 0 5px 10px
+    black;
+    border-radius: 10px;
+    padding: 20px;
+}
+.cardPhoto{
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.Name {
+    color: white;
+}
+.description {
+    color: white;
+    font-size: 20px;
+}
+.wrapper {
+    width:450px;
+}
+.left_block {
+    padding: 5px;
+    float: left;
+    width: 200px;
+}
+.right_block {
+    padding: 5px;
+    width: 300px;
+    float: left;
+}
+h3 {
+    color: red;
+}
+.description {
+    color: gold;
+}
+.FirstPage3 {
+    color: #000000;
+    font-family: "Algerian";
+    src: url("Algerian.ttf");
+}
+.End {
+    font-size: 20px;
+    color: gold;
+    text-align: left;
+}
+.men1 {
+    color: white;
+    background: black;
+}
+.men2 {
+    color: white;
+    background: red;
+}
